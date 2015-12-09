@@ -12,11 +12,11 @@
 			<?php if ( ! dynamic_sidebar( 'sidebar-5' ) ) : ?>
 					
 					<aside id="woocommerce_product_search-2" class="widget woocommerce widget_product_search">
-						<h3 class="widget-title">Search Products</h3>
+						<h3 class="widget-title">Tìm kiếm sản phẩm</h3>
 						<?php get_product_search_form(); ?>
 					</aside>
 					<aside id="woocommerce_product_categories-4" class="widget woocommerce widget_product_categories">
-						<h3 class="widget-title">Product Categories</h3>
+						<h3 class="widget-title">Danh mục sản phẩm</h3>
 						<?php 
 							$args = array('hierarchical' => true);
 							the_widget('WC_Widget_Product_Categories', $args); 

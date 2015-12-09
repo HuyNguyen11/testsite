@@ -17,9 +17,13 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<?php do_action( 'woocommerce_review_order_before_payment' ); ?>
 <?php endif; ?>
 
-<div id="payment" class="woocommerce-checkout-payment">
+<div id="payment" class="woocommerce-checkout-payment"> 
+	Cảm ơn bạn đã lựa chọn sản phẩm của chúng tôi. Vui lòng liên hệ với Kumochan Shop để biết thêm thông tin về thời gian chuyển hàng và phương thức nhận hàng.
+	<br>
+	https://www.facebook.com/huy.nguyen.111191
+	</br>
 	<?php if ( WC()->cart->needs_payment() ) : ?>
-	<ul class="payment_methods methods">
+	<!-- <ul class="payment_methods methods"> -->
 		<?php
 			if ( ! empty( $available_gateways ) ) {
 				foreach ( $available_gateways as $gateway ) {
@@ -35,7 +39,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 				echo '<li>' . apply_filters( 'woocommerce_no_available_payment_methods_message', $no_gateways_message ) . '</li>';
 			}
 		?>
-	</ul>
+	<!-- </ul>  -->
 	<?php endif; ?>
 
 	<div class="form-row place-order">

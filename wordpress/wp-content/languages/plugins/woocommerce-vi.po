@@ -1193,7 +1193,7 @@ msgstr "Vui lòng điền thông tin của bạn ở trên để xem hình thứ
 
 #: templates/checkout/payment.php:32
 msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
-msgstr "Xin lỗi, có vẻ như không có phương thức thanh toán nào phù hợp với khu vực bang hiện tại của bạn. Vui lòng liên hệ với chúng tôi nếu bạn cần hỗ trợ hoặc muốn sắp xếp phương án thay thế."
+msgstr "Cảm ơn bạn đã lựa chọn sản phẩm của chúng tôi. Vui lòng liên hệ với chúng tôi nếu bạn để biết thêm thông tin về thời gian chuyển hàng và phương thức nhận hàng."
 
 #: templates/checkout/payment.php:43
 msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."

@@ -10024,7 +10024,7 @@ msgid ""
 "Sorry, it seems that there are no available payment methods for your "
 "location. Please contact us if you require assistance or wish to make "
 "alternate arrangements."
-msgstr "Xin lỗi, có vẻ như không có phương thức thanh toán nào phù hợp với vị trí hiện tại của bạn. Vui lòng liên hệ với chúng tôi nếu bạn cần hỗ trợ hoặc muốn sắp xếp phương án thay thế."
+msgstr "Cảm ơn bạn đã lựa chọn sản phẩm của chúng tôi. Vui lòng liên hệ với chúng tôi nếu bạn để biết thêm thông tin về thời gian chuyển hàng và phương thức nhận hàng."
 
 #: templates/checkout/form-pay.php:90
 msgid "Pay for order"
@@ -10043,7 +10043,7 @@ msgid ""
 "Sorry, it seems that there are no available payment methods for your state. "
 "Please contact us if you require assistance or wish to make alternate "
 "arrangements."
-msgstr "Xin lỗi, có vẻ như không có phương thức thanh toán nào phù hợp với khu vực bang hiện tại của bạn. Vui lòng liên hệ với chúng tôi nếu bạn cần hỗ trợ hoặc muốn sắp xếp phương án thay thế."
+msgstr "Cảm ơn bạn đã lựa chọn sản phẩm của chúng tôi. Vui lòng liên hệ với chúng tôi nếu bạn để biết thêm thông tin về thời gian chuyển hàng và phương thức nhận hàng."
 
 #: templates/checkout/payment.php:43
 msgid ""
